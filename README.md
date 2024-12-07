@@ -5,7 +5,7 @@ Welcome to my Technical Writing Portfolio! This website showcases my reflective 
 ## Website Deployment
 
 The portfolio is live and can be accessed here:  
-[**https://majestic-frangollo-7e07c1.netlify.app/**](https://majestic-frangollo-7e07c1.netlify.app/)
+[**https://majestic-frangollo-7e07c1.netlify.app/**](https://majestic-frangollo-7e07c1.netlify.app/) and or [**https://acharyasamir.github.io/technical-writing-website/**](https://acharyasamir.github.io/technical-writing-website/)
 
 ## About
 
